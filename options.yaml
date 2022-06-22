@@ -1,0 +1,38 @@
+hotkey: win+q
+shortcuts:
+  google:
+    run_program: C:\Program Files\Mozilla Firefox\firefox.exe https://www.google.com/
+  firefox:
+    run_program: C:\Program Files\Mozilla Firefox\firefox.exe 
+  notepad:
+    run_program: notepad
+  calc:
+    run_program: calc
+  gvim:
+    run_program: D:\Program Files (x86)\Vim\vim82\gvim.exe
+  powershell:
+    run_program: powershell -c start powershell
+  minecraft_coord:
+    run_program: C:\Program Files\Python310\python.exe L:\ruser\Core\Documents\Dev\quick-shortcuts-gui\coord.py
+  discord:
+    run_program: C:\Users\ruser\AppData\Local\Discord\Update.exe --processStart Discord.exe
+  minecraft:
+    run_program: F:\Program Files (x86)\MultiMC\MultiMC.exe --launch 1.19
+  remedy:
+    run_program: C:\Program Files\Mozilla Firefox\firefox.exe https://itsmprod.vodafone.co.nz/arsys/
+  python_pip:
+    text: '& "C:\Program Files\Python310\python.exe" -m pip install '
+  python_pyinstaller:
+    text: '& "C:\Program Files\Python310\python.exe" -m pyinstaller '
+  personal_email:
+    text: name@fastmail.com
+  work_email:
+    text: name@v.com
+  signature:
+    send_before: enter
+    text: |
+      Kind regards,
+
+      First Last
+      nane@fastmail.com | 02123456789
+    send_after: enter
