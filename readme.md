@@ -17,4 +17,4 @@ various tasks.
 - Configurable hotkey to invoke the button box, then point and click to select
   the desired shortcut.
 - Pep8 styled python, featuring threading, conditionals, callbacks, loops,
-  functions and dataclasses.
+  functions and dataclasses, and (incomplete) type hinting.
